@@ -1,1 +1,1 @@
-# adapted from past project on marketing
+# adapted from past projects on marketing
