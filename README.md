@@ -1,1 +1,1 @@
-# adapted from past projects on marketing
+# Adapted from past projects as a business analyst
