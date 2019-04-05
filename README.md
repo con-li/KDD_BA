@@ -1,1 +1,1 @@
-# Adapted from past projects as a business analyst
+# KDD as BA
